@@ -1,3 +1,13 @@
+http://119.165.32.131:53379/i
+http://59.99.202.122:51529/i
+http://46.19.141.122/bins//x86
+http://45.95.55.214/scooter/bot.arm7
+http://185.216.71.112/hiddenbin/boatnet.arm5
+http://45.95.55.202/reaper/reap.arm7
+http://176.97.210.166/Cherarm5
+http://125.44.9.202:33630/bin.sh
+http://117.195.83.42:41712/i
+http://112.248.104.72:56474/i
 http://solapurcancer.com/16/data64_4.exe
 http://solapurcancer.com/16/data64_3.exe
 http://solapurcancer.com/16/data64_5.exe
