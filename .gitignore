@@ -1,5 +1,5 @@
-Include/
-Lib/
-Scripts/
-*.py
-*.cfg
+*
+!*ip_ioc_list.txt
+!*domain_ioc_list.txt
+!*url_ioc_list.txt
+!*hash_ioc_list.txt
