@@ -1,6 +1,6 @@
 /Include
 /Lib
 /Scripts
-/custom/files
+/custom/files/*
 *.cfg
 *.py
