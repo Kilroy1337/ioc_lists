@@ -1,8 +1,0 @@
-.idea
-/venv
-/custom/files/*
-/__pycache__
-*.cfg
-*.py
-requirements.txt
-!custom/files/.gitkeep
