@@ -1,6 +1,6 @@
 *
 !.gitignore
-!*/custom/*
+!custom/*
 !*ip_ioc_list.txt
 !*domain_ioc_list.txt
 !*url_ioc_list.txt
