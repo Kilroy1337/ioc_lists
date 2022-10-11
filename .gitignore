@@ -4,3 +4,4 @@
 /custom/files/*
 *.cfg
 *.py
+!custom/files/.gitkeep
