@@ -1,5 +1,6 @@
 *
 !.gitignore
+!*/custom/*
 !*ip_ioc_list.txt
 !*domain_ioc_list.txt
 !*url_ioc_list.txt
@@ -7,4 +8,3 @@
 !*feeds.txt
 !*custom_iocs.txt
 !*ignore_iocs.txt
-!custom/*
