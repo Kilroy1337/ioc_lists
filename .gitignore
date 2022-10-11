@@ -7,3 +7,4 @@
 !*feeds.txt
 !*custom_iocs.txt
 !*ignore_iocs.txt
+!custom/*
