@@ -1,8 +1,12 @@
 .idea
+/build
+/dist
 /venv
 /custom/files/*
 /__pycache__
 *.cfg
 *.py
+*.spec
+*.exe
 requirements.txt
 !custom/files/.gitkeep
