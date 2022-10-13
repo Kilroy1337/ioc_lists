@@ -9,4 +9,4 @@
 *.spec
 *.exe
 requirements.txt
-!custom/files/.gitkeep
+!custom/files/scan_list.txt
