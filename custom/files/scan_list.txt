@@ -2,5 +2,5 @@
 # ADD HASHTAG # SYMBOL TO COMMENT FEED FILENAMES AND SKIP THEM DURING PARSING
 #
 
-IOCs_the_rise_of_earth_aughisky_tracking_the_campaigns_taidoor_started.txt
+# IOCs_the_rise_of_earth_aughisky_tracking_the_campaigns_taidoor_started.txt
 custom_iocs.txt
