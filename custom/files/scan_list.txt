@@ -5,4 +5,4 @@
 #IOCs_the_rise_of_earth_aughisky_tracking_the_campaigns_taidoor_started.txt
 #20221014-tru.json.txt
 #custom_iocs.txt
-Goncharov 18.10.2022
+Goncharov 18.10.2022.txt
