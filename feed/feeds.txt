@@ -16,3 +16,4 @@ http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 http://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://threatfox.abuse.ch/downloads/hostfile/
 https://urlhaus.abuse.ch/downloads/text_recent/
+https://raw.githubusercontent.com/gnxsecurity/gnx-threat-intelligence/master/latest-blacklist.raw
