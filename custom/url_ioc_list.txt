@@ -1,0 +1,17 @@
+http://45.32.132.166/client_
+http://45.32.132.166/
+http://45.32.132.166/psexec64.exe
+http://45.32.132.166/frpc
+http://45.32.132.166/down.sct
+http://45.32.132.166/client_arm
+http://45.32.132.166/fs21774b77bbf7739178beefe647e7ec757b08367c2a2db6b5bbc0d2982310ef12
+http://45.32.132.166/client
+http://45.32.132.166/sump
+http://45.32.132.166/zzz_exploit.py
+http://45.32.132.166/exploit
+http://45.32.132.166/Alchimist
+http://45.32.132.166/ltmp
+http://45.32.132.166/1tmp
+http://45.32.132.166/nc.zip
+http://45.32.132.166/msconfig.zip
+http://45.32.132.166/shell.msi
