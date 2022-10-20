@@ -6,3 +6,4 @@
 #20221014-tru.json.txt
 #custom_iocs.txt
 Goncharov 18.10.2022.txt
+Goncharov 19-20.10.2022.txt
