@@ -213,6 +213,15 @@ reaso[.]xyz
 rorfog[.]com
 tornton[.]xyz
 vavilgo[.]xyz
+www.get.adobe.com.aspx[.]io
+gov.mil.ua.aspx[.]io
+mil.ua.aspx[.]io
+ua.aspx[.]io
+aspx[.]io
+4qzm[.]com
+combinedresidency[.]org
+advanced-ip-scaner[.]com
+advanced-ip-scanners[.]com
 # MD5
 360417f75090c962adb8021dbb478f67 
 3e0f28bcaf35af2802f45b58f49481be
@@ -242,6 +251,13 @@ ac39f1a22538f0211204037cce30431d
 c1989d25287cd9044b4d936e73962e35
 c7facfffad15a9c84239b495770183bb
 cde05576e7c48ca89d2f21c283a4a018 
+62d99110a03c33157a2c844ed5ddec11    
+879a0684646a0fe6897b2b5637abaf8a    
+32b4d8b58dde0bdc372dbb41a856c46c    
+05eaab1fb0ef4a9f22e9d21439e9bd90    
+f31620e7e22a30f408e5d683922f5029    
+5f5c18e98e5c8a5a50a1e122221f61dd    
+a785462b81ad66922c7128b0fe40b448    
 # SHA-1
 0A36CAD9F18249D42E05685B00330583C20D0BC3
 0B9381FFC9AE3A7749484D0AD788E91452DAE86B
@@ -284,6 +300,13 @@ a8a744c6aa9443bd5e00f81a504efad3b76841bbb33c40933c2d72423d5da19c
 b252f742b8b7ba2fa7a7aa78206271747bcf046817a553e82bd999dc580beabb
 b675404c7e835febe7c6c703b238fb23d67e9bd0df1af0d6d2ff5ddf35923fb3
 bf1d8ce2deda2e598ee808ded71c3b804704ab6262ab8e2f2e20e6c89c1b3143
+a2511c5c2839bfbdf9c0f84f415d5eae168456e5d3f77f1becdbcd69fba4daa4    
+bd46cdd2f058697f7f13cfd958c2be9d132d72844c8d2cf1c76463087f785187    
+c116a0aafdc2765e38b4f5efdf89960997abf0db81daa8f5380ce3c893e9af96    
+03965aeccf475029ea06ff400b34dfd0e19bcf04403bfd539e11c60aaab11343    
+068117b406940ac510ed59efd1d7c7651f645a31bd70db6de16aba12c055aae6    
+4fc9202ff84ef84b8c5e6140b66ac3d04570daf886a7f1ae31661ade882f963e    
+494b43198db467f506e9857f39ebe8f8bf6d871776eba092a7e2f2140046e16d    
 # IP
 5[.]182.36.248
 5[.]182.37.136
@@ -315,6 +338,17 @@ bf1d8ce2deda2e598ee808ded71c3b804704ab6262ab8e2f2e20e6c89c1b3143
 185[.]250.148.35
 188[.]119.112.104
 193[.]38.54.157
+45[.]158.38.74
+45[.]87.155.99
+69[.]49.231.103
+# URL
+hxxp://notfiled[.]com:4444/
+hxxps://www.get.adobe.com.aspx[.]io/reader/download.php
+hxxps://gov.mil.ua.aspx[.]io/mail/attachment/Наказ_309.pdf
+hxxp://advanced-ip-scanners[.]com/advancedipscanner.msi
+hxxps://advanced-ip-scaner[.]com/download/
+hxxp://combinedresidency[.]org:4444
+hxxp://4qzm[.]com:4444
 # Sources:
 # https://ti.defender.microsoft.com/articles/b1aa5878/public-indicators
 # https://ti.defender.microsoft.com/articles/deaf2283/public-indicators
