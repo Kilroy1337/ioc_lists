@@ -7,4 +7,5 @@
 #custom_iocs.txt
 #Goncharov 18.10.2022.txt
 #Goncharov 19-20.10.2022.txt
-threat-roundup-1007-1014.txt
+#threat-roundup-1007-1014.txt
+Zvinskyi_22_10
