@@ -15,3 +15,9 @@ http://45.32.132.166/1tmp
 http://45.32.132.166/nc.zip
 http://45.32.132.166/msconfig.zip
 http://45.32.132.166/shell.msi
+http://notfiled.com:4444/
+https://get.adobe.com.aspx.io/reader/download.php
+http://advanced-ip-scanners.com/advancedipscanner.msi
+https://advanced-ip-scaner.com/download/
+http://combinedresidency.org:4444
+http://4qzm.com:4444
