@@ -354,3 +354,4 @@ hxxp://4qzm[.]com:4444
 # https://ti.defender.microsoft.com/articles/deaf2283/public-indicators
 # https://ti.defender.microsoft.com/articles/0c36b0c9/public-indicators
 # https://socradar.io/ursnif-malware-moving-to-ransomware-operations-from-bank-account-theft/
+# https://cert@cert.gov.ua/article/2394117
