@@ -7,4 +7,5 @@
 #custom_iocs.txt
 #threat-roundup-1007-1014.txt
 #Zvinskyi_22_10
-Goncharov TI.txt
+#Goncharov TI.txt
+RomCom, Cuba Ransomware.txt
