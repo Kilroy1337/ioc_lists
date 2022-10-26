@@ -355,3 +355,56 @@ hxxp://4qzm[.]com:4444
 # https://ti.defender.microsoft.com/articles/0c36b0c9/public-indicators
 # https://socradar.io/ursnif-malware-moving-to-ransomware-operations-from-bank-account-theft/
 # https://cert@cert.gov.ua/article/2394117
+
+# 26/10/2022
+# DOMAIN
+customs-lk.org
+adogeevent.com
+luxury-limousine.com
+profi-stom.com
+skambio-porte.com
+yaritsavodka.com
+# MD5
+40f86b56ab79e94893e4c6f1a0a099a1
+5cff6896e0505e8d6d98bff35d10c43a
+63d6d8213d9cc070b2a3dfd3c5866564
+8f9cf5c828cb02c83f8df52ccae03e2a
+d0acccab52778b77c96346194e38b244
+d510808a743e6afc705fc648ca7f896a
+ec33c5e1773b510e323bea8f70dcddb0
+# SHA256
+537ae7b28196cba2527a3da539b5594777dfac97620a30085b271130a71c4973
+58b3686e4255d32dbcf7dee9dac1d5be6d4692d086cde167da1e1a5e0e1b315a
+624c6b56ee3865f4a5792ad1946a8e86b876440a5af3bac22ac1dee92f1b7372
+7d3574c62df44b74337fc74ec7877792b4ffa1486a49bb19668433c3ca8836b5
+b35c3e6c870e87bef502f7bbd55a1cd197523f044811c48492ec2db2ddb3d369
+f97d5d3e1c2ceb3e9d23ae5b5d4e7c9857155df5acf7f67fee995cb041c797dc
+19ED36F063221E161D740651E6578D50E0D3CACEE89D27A6EBED4AB4272585BD
+475D6E80CF4EF70926A65DF5551F59E35B71A0E92F0FE4DD28559A9DEBA60C28
+54E3B5A2521A84741DC15810E6FED9D739EB8083CB1FE097CB98B345AF24E939
+9E42E07073E03BDEA4CD978D9E7B44A9574972818593306BE1F3DCFDEE722238
+EC16E2DE3A55772F5DFAC8BF8F5A365600FAD40A244A574CBAB987515AA40CBF
+23b14288d49610a8eef61977b7fc49a963f1261fe29b1668b4443a04eaf493cb
+6371d4c28214de1e599caaede658d752e1fbc691019d8ae34c591a7699911814
+76b3d17196dd9e99eadd46e8bc760ec8809a0c723f66fb687ab8576dd1299e34
+2e2cef71bf99594b54e00d459480e1932e0230fb1cbee24700fbc2f5f631bf12
+6d8e2d8f6aeb0f4512a53fe83b2ef7699513ebaff31735675f46d1beea3a8e05
+# IP
+146.190.235.137
+# URL
+http://146.190.235.137/DDRA.exe
+http://146.190.235.137/OneDrive.exe
+http://146.190.235.137/Snitch.exe
+http://146.190.235.137/wh/glass.php
+https://dotimewat.com/CLFsecurity.exe
+https://itraf.org/wp-content/plugins/hello-dolly/Browser_renew.iso
+https://pastukhova.com/js1
+https://profi-stom.com/
+https://skambio-porte.com/js1
+https://yaritsavodka.com/
+https://yaritsavodka.com/index-edge.php
+# Sources
+# https://ti.defender.microsoft.com/articles/156dec67/public-indicators
+# https://ti.defender.microsoft.com/articles/1cef9434/public-indicators
+# https://ti.defender.microsoft.com/articles/54cd7f8f/public-indicators
+# https://ti.defender.microsoft.com/articles/33531226/public-indicators
