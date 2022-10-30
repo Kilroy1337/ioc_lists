@@ -58,5 +58,5 @@ http://vwuzda4x76mhtutxkjnhzquuq4wgtgwjbv6wrs2m627uhg744ieaskqd.onion/?access-ke
 https://ti.defender.microsoft.com/articles/6cda06fa/public-indicators
 https://ti.defender.microsoft.com/articles/7f96556e/public-indicators
 https://ti.defender.microsoft.com/articles/60f036e6/public-indicators
-https://ti.defender.microsoft.com/articles/566fb27d
+https://ti.defender.microsoft.com/articles/566fb27d/public-indicators
 https://cybereason.com/hubfs/Indicators%20of%20Compromise/Raccoon%20-%20Indicators%20of%20Compromise.pdf
