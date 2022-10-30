@@ -454,3 +454,48 @@ http://vwuzda4x76mhtutxkjnhzquuq4wgtgwjbv6wrs2m627uhg744ieaskqd.onion/?access-ke
 # https://ti.defender.microsoft.com/articles/6cda06fa/public-indicators
 # https://ti.defender.microsoft.com/articles/7f96556e/public-indicators
 # https://ti.defender.microsoft.com/articles/60f036e6/public-indicators
+
+# 30/10/2022
+# DOMAIN
+005gs.com
+188xs.xyz
+666xs.xyz
+bvii.xyz
+changecolorss.com
+cs5s.xyz
+dgopx.xyz
+eisx.xyz
+eisx2.xyz
+eisx3.xyz
+eisx4.xyz
+isloov.com
+lkbx.me
+lso1.xyz
+lso2.xyz
+pelsx.xyz
+productivitytab.co
+rssok.xyz
+sikxsx.xyz
+simpledark-tab.com
+smashaff.com
+smashofferss.com
+smashsearches.com
+sokjs.xyz
+superofferss.com
+toodipex-sucticago.icu
+udjx.xyz
+vnhs.xyz
+websearches.club
+xcfss.xyz
+xcfss2.xyz
+xcfss3.xyz
+yt5ds.xyz
+zcgxd.xyz
+# IP
+51.255.171.23
+51.79.175.139
+89.34.27.167
+
+# Sources 
+# https://ti.defender.microsoft.com/articles/566fb27d
+# https://www.cybereason.com/hubfs/Indicators%20of%20Compromise/Raccoon%20-%20Indicators%20of%20Compromise.pdf
