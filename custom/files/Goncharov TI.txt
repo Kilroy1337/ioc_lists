@@ -16,8 +16,8 @@
 45.76.68.112
 95.179.246.73
 # Sources:
-# https://ti.defender.microsoft.com/articles/c979159a
-# https://ti.defender.microsoft.com/articles/7e4d205f
+#https://ti.defender.microsoft.com/articles/c979159a
+#https://ti.defender.microsoft.com/articles/7e4d205f
 
 # 18/10/2022
 # MD5
@@ -80,8 +80,8 @@ fe2e7c663913e0744822d1469be0c3655d24178d
 5fc44c7342b84f50f24758e39c8848b2f0991e8817ef5465844f5f2ff6085a57
 6cff0bbd62efe99f381e5cc0c4182b0fb7a9a34e4be9ce68ee6b0d0ea3eee39c
 # Sources:
-# https://ti.defender.microsoft.com/articles/481cb9a6/public-indicators
-# https://ti.defender.microsoft.com/articles/7e4d205f
+#https://ti.defender.microsoft.com/articles/481cb9a6/public-indicators
+#https://ti.defender.microsoft.com/articles/7e4d205f
 
 # 19-20/10/2022
 # DOMAIN
@@ -172,10 +172,10 @@ http://45.32.132.166/nc.zip
 http://45.32.132.166/msconfig.zip
 http://45.32.132.166/shell.msi
 # Sources:
-# https://ti.defender.microsoft.com/articles/f83eb9ab/public-indicators
-# https://ti.defender.microsoft.com/articles/947641b9/public-indicators
-# https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2022/10/alchimist-offensive-framework.txt
-# https://www.cisa.gov/uscert/ncas/analysis-reports/ar22-277b
+#https://ti.defender.microsoft.com/articles/f83eb9ab/public-indicators
+#https://ti.defender.microsoft.com/articles/947641b9/public-indicators
+#https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2022/10/alchimist-offensive-framework.txt
+#https://www.cisa.gov/uscert/ncas/analysis-reports/ar22-277b
 
 # 22/10/2022
 # DOMAIN
@@ -350,11 +350,11 @@ hxxps://advanced-ip-scaner[.]com/download/
 hxxp://combinedresidency[.]org:4444
 hxxp://4qzm[.]com:4444
 # Sources:
-# https://ti.defender.microsoft.com/articles/b1aa5878/public-indicators
-# https://ti.defender.microsoft.com/articles/deaf2283/public-indicators
-# https://ti.defender.microsoft.com/articles/0c36b0c9/public-indicators
-# https://socradar.io/ursnif-malware-moving-to-ransomware-operations-from-bank-account-theft/
-# https://cert@cert.gov.ua/article/2394117
+#https://ti.defender.microsoft.com/articles/b1aa5878/public-indicators
+#https://ti.defender.microsoft.com/articles/deaf2283/public-indicators
+#https://ti.defender.microsoft.com/articles/0c36b0c9/public-indicators
+#https://socradar.io/ursnif-malware-moving-to-ransomware-operations-from-bank-account-theft/
+#https://cert@cert.gov.ua/article/2394117
 
 # 26/10/2022
 # DOMAIN
@@ -451,9 +451,9 @@ https://spideroak.com/storage/OVPXG4DJMRSXE33BNNPWC5LUN5PTSMRTGAZTG/shared/53921
 http://vwuzda4x76mhtutxkjnhzquuq4wgtgwjbv6wrs2m627uhg744ieaskqd.onion/?access-key=g7ZyzfVklepngLBki2XeB4NTccRD1m1R2RymNI23pOXwUVctZIV7CTeiwV2S3fptQIi%2F0Yk%2BIL5LVHEU4Gkj4FVKSthcz6R8ObwbdpgIsf7BdTMQP7BgsTt6JpiHBdqv1I%2FQZEsr5dc49d8O3%2BRlTphpH%2BMFf3B5uCPkg35GwD7qEi8mGWinXixlPnaCmuq2LZpGqcZe15KVIlMK1dehL277UddgPLCUe11xIVbPOSfGTAdrRUfzeUtiJkX9lSAk5ry%2FYsqcg1IgIzjdqTByCGF%2B5BnnbUNJt0NcfGt1ldkUJfXHPrN1m73390kB%2BHkT8CGM9cFME6frN5j%2BoejVmw%3D%3D
 
 # Sources
-# https://ti.defender.microsoft.com/articles/6cda06fa/public-indicators
-# https://ti.defender.microsoft.com/articles/7f96556e/public-indicators
-# https://ti.defender.microsoft.com/articles/60f036e6/public-indicators
+#https://ti.defender.microsoft.com/articles/6cda06fa/public-indicators
+#https://ti.defender.microsoft.com/articles/7f96556e/public-indicators
+#https://ti.defender.microsoft.com/articles/60f036e6/public-indicators
 
 # 30/10/2022
 # DOMAIN
@@ -497,5 +497,5 @@ zcgxd.xyz
 89.34.27.167
 
 # Sources 
-# https://ti.defender.microsoft.com/articles/566fb27d
-# https://www.cybereason.com/hubfs/Indicators%20of%20Compromise/Raccoon%20-%20Indicators%20of%20Compromise.pdf
+#https://ti.defender.microsoft.com/articles/566fb27d/public-indicators
+#https://www.cybereason.com/hubfs/Indicators%20of%20Compromise/Raccoon%20-%20Indicators%20of%20Compromise.pdf
