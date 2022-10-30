@@ -6,7 +6,8 @@
 #20221014-tru.json.txt
 #custom_iocs.txt
 #threat-roundup-1007-1014.txt
-Zvinskyi IoCs
-#Goncharov TI.txt
+#Zvinskyi IoCs
+Goncharov TI.txt
 #RomCom, Cuba Ransomware.txt
-Indicators_emotet.txt
+#Indicators_emotet.txt
+raccoon_stealer.txt
