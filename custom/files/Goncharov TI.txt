@@ -172,10 +172,10 @@ http://45.32.132.166/nc.zip
 http://45.32.132.166/msconfig.zip
 http://45.32.132.166/shell.msi
 # Sources:
-# https://ti.defender.microsoft.com/articles/f83eb9ab/public-indicators
-# https://ti.defender.microsoft.com/articles/947641b9/public-indicators
-# https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2022/10/alchimist-offensive-framework.txt
-# https://www.cisa.gov/uscert/ncas/analysis-reports/ar22-277b
+#https://ti.defender.microsoft.com/articles/f83eb9ab/public-indicators
+#https://ti.defender.microsoft.com/articles/947641b9/public-indicators
+#https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/2022/10/alchimist-offensive-framework.txt
+#https://www.cisa.gov/uscert/ncas/analysis-reports/ar22-277b
 
 # 22/10/2022
 # DOMAIN
