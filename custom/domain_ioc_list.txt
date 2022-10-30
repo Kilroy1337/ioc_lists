@@ -1,7 +1,3 @@
-ti.defender.microsoft.com
-ti.defender.microsoft.com
-ti.defender.microsoft.com
-ti.defender.microsoft.com
 apps.imangolm.com
 archivess.imangoim.net
 quic.flashesplayer.com
@@ -11,11 +7,6 @@ zzz_exploit.py
 nc.zip
 msconfig.zip
 shell.msi
-ti.defender.microsoft.com
-ti.defender.microsoft.com
-raw.githubusercontent.com
-alchimist-offensive-framework.txt
-cisa.gov
 liveposting.net
 modooalba.net
 msideup.co.kr
@@ -68,11 +59,6 @@ advancedipscanner.msi
 advanced-ip-scaner.com
 combinedresidency.org
 4qzm.com
-ti.defender.microsoft.com
-ti.defender.microsoft.com
-ti.defender.microsoft.com
-socradar.io
-cert.gov.ua
 customs-lk.org
 adogeevent.com
 luxury-limousine.com
@@ -93,10 +79,6 @@ skambio-porte.com
 yaritsavodka.com
 yaritsavodka.com
 index-edge.php
-ti.defender.microsoft.com
-ti.defender.microsoft.com
-ti.defender.microsoft.com
-ti.defender.microsoft.com
 4qzm.com
 CombinedResidency.org
 notfiled.com
@@ -109,9 +91,6 @@ universupdatepluginx84.zip
 spideroak.com
 Setup_64_1.zip
 vwuzda4x76mhtutxkjnhzquuq4wgtgwjbv6wrs2m627uhg744ieaskqd.onion
-ti.defender.microsoft.com
-ti.defender.microsoft.com
-ti.defender.microsoft.com
 005gs.com
 188xs.xyz
 666xs.xyz
@@ -146,8 +125,5 @@ xcfss2.xyz
 xcfss3.xyz
 yt5ds.xyz
 zcgxd.xyz
-ti.defender.microsoft.com
-cybereason.com
-20Compromise.pdf
 mygift.space
 maper.info
