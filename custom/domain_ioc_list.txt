@@ -83,7 +83,6 @@ index-edge.php
 CombinedResidency.org
 notfiled.com
 optasko.com
-cdn.discordapp.com
 Setup_64_11.zip
 codeload.github.com
 dsfdsfgb.azureedge.net
