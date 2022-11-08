@@ -1244,6 +1244,15 @@ wsus.microsoft-af.com
 www.privacyfirst.sh
 www.warii.club
 zfs.life
+hilr[.]ru
+civh[.]ru
+rubidiumo[.]ru
+shapurt[.]ru
+ardeas[.]ru
+tzi.info-cip[.]org
+arhiv.ua-cip[.]org
+ua-cip[.]org
+info-cip[.]org
 # IP
 45.32.8.137
 45.76.125.176
@@ -1417,6 +1426,9 @@ zfs.life
 192.227.196.185
 198.12.107.13
 3.108.190.204
+154[.]111.181.171
+173[.]199.90.103
+45[.]32.171.4
 # URL
 http://45.83.122.33/admin/avicap32.exe
 http://45.83.122.33/admin/Microsoft.AppV.AppVClientWmi.exe
@@ -1429,6 +1441,12 @@ http://192.227.196.185/647922207/y9zd44e.php
 http://192.227.196.185/804194164/e3nr.php
 http://198.12.107.13/iaserver.php
 http://198.12.107.13/Play/Play.apk
+hxxps://t[.]me/s/vozmoz2
+hxxp://arhiv.ua-cip[.]org/08.11.2022.arhiv
+hxxp://tzi.info-cip[.]org/07_11_2022.xhtml
+hxxps://civh[.]ru/08.11/band.rtf
+hxxps://hilr[.]ru/07.11/growth.rtf
+hxxps://hilr[.]ru/07.11/sent.rtf
 # MD5
 00fa891101b4601fbc7cd2cd66eba10f
 063e3ca9b211a7a653f3795ae696a28a
@@ -1763,6 +1781,18 @@ f7e6e117024b8936cf0f3ba1ac303a3b
 fb6c7eb4f64f699511380721e9c8cabb
 fbec4459fbf7018db2a0148406d8196f
 fd4f43af4b47683256b31e74d5bdfb9c
+3adbc03f755a67fea42b6ca96b594237
+3adbc03f755a67fea42b6ca96b594237
+a19a7f22e599b4ff9a30d8917a801ffb
+85dc81ba98e7ba81b00c3f4554e23f41
+c1074dbc69079bc44f517c5a2092f05e
+d67119d10668cd3f78ec2abefc6713d4
+146694cdc0e529bb175741c8331fcbda
+5f2d3f456eb549f31afa372d1a877152
+ab8600c3150ff6a5a803130438fdfae9
+0ede5c6f925b4ef08446c063c4805ff9
+1af530c3daa10a6a9ad973bd7e1904ed
+3864263b8b3d86a1f6861b15c646aab0
 # SHA-1
 1edcdc6899fe0aad0b953dee9f3660da0e052699
 ed586dd2973f3126ff07950dacbd484643de06f7
@@ -1776,9 +1806,21 @@ ac85af8395d1b97a8cbcbd16f995ce119e3c4955
 de0eb9f1d712ec2c91fea05e26fb01a019cadcc8beb4ad6d2f4a0b4db2cfbfaf
 e5bc55ce98909742d2f1353b3bc8749ecc71206a5b8fa2e656d2a3ae186c1e63
 f4a57ad535ec4b0c7c1b3fbd9a116e451a392ee3f1e5e8b7a5ee0b05141208cc
+8badadda788a53549ec889f648f3c85354c1765c7a2d8acfbcfc69aa3002e933
+424a9224b2f1a462a5de7222b98e1a95205e5bdad8beae892309be3ad4279363
+c4d44834436baf347f01ac66f7e04e73bc1cb44cd938bd2992bcb11fef958801
+b27b901f363304a188348880df278af5954b288b5c614c3b85e7e1d8057cf3a1
+fe37eae9986ad6d9a1709aa2993e13965d1bd9f0b7733c0a09c2b36531c31086
+aafde3c78194495c57066b8e6219da1caab9031da1b22f9dc6deef14ac3b5cfc
+95b67d3bb530bf9ce98fa017ec2270176977a775e013df4db2038257ca6d17c3
+53f472e9a3d3471a76f13d12417229d23efd11b047353db8b71793feacafb029
+94a2b39e00ff03061093cce7ead1aab677c939400428a37a00bf89333655ba82
+704a6ade1ad9ccb52ff52ae86ca0bce068f14134bd4f1ab6f7506b3f201ba55b
+1281abff0809bbb1de56bed6f5ebfa111c3c42918732ededae63b76007364582
 # Sources
 #https://1275.ru/security/933/apt-c-01/
 #https://1275.ru/ioc/930/laplas-clipper-iocs/
 #https://1275.ru/ioc/928/opera1er-apt-iocs/
 #https://1275.ru/ioc/927/elibomi-fakereward-axbanker-icrat-icspy-iocs/
 #https://ti.defender.microsoft.com/articles/6ac50f8b/public-indicators
+#https://cert@cert.gov.ua/article/2681855
