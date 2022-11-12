@@ -3,6 +3,7 @@
 
 # IP
 20.190.159.23
+93.184.220.29
 # DOMAIN
 cdn.discordapp.com
 j-p-g.net
@@ -24,3 +25,4 @@ a9affdcdb398d437e2e1cd9bc1ccf2d101d79fc6d87e95e960e50847a141faa4
 3337e3875b05e0bfba69ab926532e3f179e8cfbf162ebb60ce58a0281437a7ef
 ad6b98c01ee849874e4b4502c3d7853196f6044240d3271e4ab3fc6e3c08e9a4
 #URL
+https://bitbucket.org
