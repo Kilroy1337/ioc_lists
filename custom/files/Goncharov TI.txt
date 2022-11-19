@@ -2623,3 +2623,70 @@ fea2f48f4471af9014f92026f3c1b203825bb95590e2a0985a3b57d6b598c3ff
 #https://1275.ru/ioc/991/billbug-apt-iocs/
 #https://1275.ru/ioc/987/dagon-locker-ransomware-iocs/
 #https://1275.ru/ioc/986/dtrack-backdoor-iocs/
+
+# 19/11/2022
+# DOMAIN
+catkiller7767-64721.portmap.io
+judithabusufaitdyg.duckdns.org
+anonfiles.com
+asd.s7610rir.pw
+asq.d6shiiwz.pw
+asq.r77vh0.pw
+asq.swhw71un.pw
+privatlab.com
+privatlab.net
+send.exploit.in
+ufile.io
+bohemianpool.com
+nanopool.org
+# IP
+103.125.190.248
+193.161.193.99
+34.174.95.150
+108.62.118.190
+158.69.36.149
+181.231.81.239
+185.247.71.106
+185.8.105.103
+185.8.105.112
+185.8.105.67
+186.111.136.37
+192.53.123.202
+46.166.161.123
+46.166.161.93
+46.166.162.125
+46.166.162.96
+46.166.169.34
+5.199.162.220
+5.199.162.229
+5.61.37.207
+83.97.20.81
+84.32.188.238
+84.32.188.57
+89.147.109.208
+93.115.25.139
+93.115.26.251
+93.115.27.148
+139.99.102.72
+80.211.206.105
+# URL
+# MD5
+# SHA-1
+# SHA-256
+50e2444e832e4c3ed711fcf27c038967c2c5f5037a4e0ea2cc6d53ef6ac54cfb
+ac3c94d88bcd4833d6fc5ffde7379f90a8915863567990572f2fa0d7fe83d0da
+c73771b3b8c6e548724dd02e5f12380a9160323d88dbdbe12d388ade0f7bc1e2
+cd6a8e6b17a1ecb5aafb24ef4f7ec0ba0be44508ea10dbde551e0037220571f8
+e6bf1b38f9d4b2a2aeb00dc4c12dd22eff26c318665687b4653fe8269d39d878
+047c2d5a6cf769c33e019c0b576aef702cae77f3418f0aeba0706467be5ba681
+572d88c419c6ae75aeb784ceab327d040cb589903d6285bbffa77338111af14b
+8b9c7d2554fe315199fae656448dc193accbec162d4afff3f204ce2346507a8a
+d0c1662ce239e4d288048c0e3324ec52962f6ddda77da0cb7af9c1d9c2f1e2eb
+e81a8f8ad804c4d83869d7806a303ff04f31cce376c5df8aada2e9db2c1eeb98
+47d69b281d9cbaca0638f8ca304d40fa04991c870ea8b65388bd42eb266cf2c0
+c68a82fc2e8f27ef017a69b951c92d4336c6b657e8666dbb58395bac195d00cb
+# Sources
+#https://ti.defender.microsoft.com/articles/64ef8a24/public-indicators
+#https://ti.defender.microsoft.com/articles/5ce16254/public-indicators
+#https://ti.defender.microsoft.com/articles/6002ba27/public-indicators
+#https://1275.ru/security/1004/aggah-malware/
