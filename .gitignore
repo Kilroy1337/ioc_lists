@@ -1,5 +1,5 @@
 *
-!*ioc_list.txt
+!*/*ioc_list.txt
 !custom/files/*
 !.gitignore
 !ignore_iocs.txt
