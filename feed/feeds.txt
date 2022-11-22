@@ -20,4 +20,4 @@
 #https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/h/iron-tiger-compromises-chat-application-mimi,-targets-windows,-mac,-and-linux-users/IOCs-IronTiger-compromises-chat-application-mimi-targets-windows-mac-linux-users.txt
 #https://gist.githubusercontent.com/aaronst/6aa7f61246f53a8dd4befea86e832456/raw/f154d75de63d95925a6930d81cca99da0da85f32/unc1878_indicators.txt
 #https://raw.githubusercontent.com/microsoft/mstic/master/Indicators/May21-NOBELIUM/May21NOBELIUMIoCs.csv
-https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/k/earth-preta-spear-phishing-governments-worldwide/IOCs-earth-preta-spear-phishing-since-march.txt
+#https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/k/earth-preta-spear-phishing-governments-worldwide/IOCs-earth-preta-spear-phishing-since-march.txt
