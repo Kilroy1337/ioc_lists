@@ -1,0 +1,2 @@
+6b5958bfabfe7c731193adb96880b225c8505b73	sha1_hash	HermeticWizard	"HermeticWizard WMI spreader, exec_32.dll
+ac5b6f16fc5115f0e2327a589246ba00b41439c2	sha1_hash	HermeticWizard	"HermeticWizard SMB spreader, romance.dll
