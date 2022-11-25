@@ -22,3 +22,6 @@
 #https://raw.githubusercontent.com/microsoft/mstic/master/Indicators/May21-NOBELIUM/May21NOBELIUMIoCs.csv
 #https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/k/earth-preta-spear-phishing-governments-worldwide/IOCs-earth-preta-spear-phishing-since-march.txt
 https://raw.githubusercontent.com/secureworks/ukraine-crisis/master/ukraine-crisis-iocs.tsv
+https://raw.githubusercontent.com/pan-unit42/iocs/cca464c766b773f05faddc372476324c2cabc3f1/Gamaredon/Gamaredon_IoCs_JAN2022.txt
+https://raw.githubusercontent.com/pan-unit42/iocs/cca464c766b773f05faddc372476324c2cabc3f1/Gamaredon/2022_02_Gamaredon_UPDATE.txt
+https://raw.githubusercontent.com/pan-unit42/iocs/cca464c766b773f05faddc372476324c2cabc3f1/Gamaredon/2202_06_Gamaredon_IoC_UPDATE.txt
