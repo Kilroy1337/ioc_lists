@@ -1,6 +1,6 @@
 https://ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia
-https://secureworks.com/blog/disruptive-hermeticwiper-attacks-targeting-ukrainian-organizations
 https://secureworks.com/blog/disruptive-attacks-in-ukraine-likely-linked-to-escalating-tensions
+https://secureworks.com/blog/disruptive-hermeticwiper-attacks-targeting-ukrainian-organizations
 https://secureworks.com/blog/domains-linked-to-phishing-attacks-targeting-ukraine
 https://welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine
