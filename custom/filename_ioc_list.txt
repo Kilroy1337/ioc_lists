@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/avast/ioc/master/ViperSoftX/samples.sha256
