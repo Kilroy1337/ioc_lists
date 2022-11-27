@@ -2771,3 +2771,47 @@ e1dc058fc8282acb95648c1ee6b0bc36b0d6b5e6853d4f602df5549e67d6d11a
 #https://1275.ru/ioc/1033/sharkbot-dropper-iocs-2/
 #https://1275.ru/ioc/1027/vipersoftx-stealer-iocs/
 #https://1275.ru/security/1022/ainslot/
+
+# 27/11/2022
+# DOMAIN
+okihs.mypressonline.com
+jojoa.mypressonline.com
+git.git.git.git.skblxin.matrizauto.net
+git.git.git.skblxin.matrizauto.net
+git.git.skblxin.matrizauto.net
+www.matrizauto.net
+
+# IP
+104.20.67.143
+# URL
+https://ms-office.services
+https://ms-offices.com
+http://offices.word-template.net
+http://schemas.openxmlformat.org
+http://okihs.mypressonline.com/bb/bb.txt
+http://okihs.mypressonline.com/bb/post.php
+http://45.87.0.89/api/endpoint.php
+# MD5
+d698fccf14f670595442155395f42642
+59be2b9a3e33057b3d80574764ab0952
+8785b8e882eef125dc527736bb1c5704
+89d972f89b336ee07733c72f6f89edc5
+f09a781eeb97acf68c8c1783e76c29e6
+3a81e8f22e239c4ced0ddfa50eacdfa4
+01a4208ab9d4b2cfa87ffbdef2f8ab78
+3c4fa896e819cb8fada88a6fdd7b2cc7
+e9fdad2df8f8b95398f3c8f27e940f5d
+96a3469891a23e0aa49fd009979b668b
+a9e09703d13de2fd20ca8aab4e02e7c8
+# SHA-1
+a785b651aa699ba651e9fccd94f86fefff88cc6a
+a9205e91e5694bb60efe73892bf14652e065bf67
+# SHA-256
+00e154eed00b71c0d11bd2caeb64fa2efcbb10524b797c076895752affa0f46c
+2279b8cf7a2b1fa13f1832b4dc0331bd9f971240f38b0fbd694ed6aec093bb8d
+# Sources
+#https://1275.ru/security/1047/rasprostranyayutsya-vredonosnye-dokumenty-word-zamaskirovannye-pod-obychnye-url-adresa-ms-office/
+#https://1275.ru/ioc/1046/vredonosnyy-dokument-word-rasprostranyaetsya-pod-vidom-novostnogo-obzora/
+#https://1275.ru/ioc/1045/wiki-ransomware-iocs/
+#https://1275.ru/ioc/1044/koxic-ransomware-iocs/
+#
