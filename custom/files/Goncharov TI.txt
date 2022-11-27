@@ -2814,4 +2814,4 @@ a9205e91e5694bb60efe73892bf14652e065bf67
 #https://1275.ru/ioc/1046/vredonosnyy-dokument-word-rasprostranyaetsya-pod-vidom-novostnogo-obzora/
 #https://1275.ru/ioc/1045/wiki-ransomware-iocs/
 #https://1275.ru/ioc/1044/koxic-ransomware-iocs/
-#
+#https://1275.ru/ioc/1043/poddelnye-sayty-msi-afterburner-ustanavlivaet-skrytyy-mayner/
