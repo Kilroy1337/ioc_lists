@@ -27,3 +27,4 @@ https://raw.githubusercontent.com/pan-unit42/iocs/cca464c766b773f05faddc37247632
 https://raw.githubusercontent.com/pan-unit42/iocs/cca464c766b773f05faddc372476324c2cabc3f1/Gamaredon/2202_06_Gamaredon_IoC_UPDATE.txt
 https://raw.githubusercontent.com/executemalware/Malware-IOCs/main/2022-06-07%20Qakbot%20(obama186)%20IOCs
 https://raw.githubusercontent.com/executemalware/Malware-IOCs/main/2022-02-02%20Emotet%20IOCs
+https://raw.githubusercontent.com/ttc-cert/TTC-CERT_blocklist_recommended/master/sha256_blocklist_recommended.txt
