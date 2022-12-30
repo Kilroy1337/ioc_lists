@@ -1,7 +1,7 @@
-ekb.tanzedrom.ru
-kc-3.ru
-xlssmooth.xyz
-mejito.ru
-cloud-documents.com
-roskazna.net
 azure-tech.pro
+roskazna.net
+cloud-documents.com
+kc-3.ru
+ekb.tanzedrom.ru
+mejito.ru
+xlssmooth.xyz
