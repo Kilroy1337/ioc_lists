@@ -1,10 +1,10 @@
+https://socialmsdnmicrosoft.azurewebsites.net/AMA
+https://go0gle-service-default-rtdb.firebaseio.com
+https://socialmsdnmicrosoft.azurewebsites.net/AAA
+https://dropbox.com/s/hbc5yz8z116zbi9
+https://dropbox.com/s/6a8u8wlpvv73fe4
 https://graph.microsoft.com/beta/users/3517e816-6719-4b16-9b40-63cc779da77c/mailFolders
 https://socialmsdnmicrosoft.azurewebsites.net/ABB
-https://dropbox.com/s/hbc5yz8z116zbi9
+https://gmall-52fb5-default-rtdb.asia-southeast1.firebasedatabase.app
 https://socialmsdnmicrosoft.azurewebsites.net/AS
 https://akam.azurewebsites.net/api/File/Upload
-https://go0gle-service-default-rtdb.firebaseio.com
-https://dropbox.com/s/6a8u8wlpvv73fe4
-https://gmall-52fb5-default-rtdb.asia-southeast1.firebasedatabase.app
-https://socialmsdnmicrosoft.azurewebsites.net/AMA
-https://socialmsdnmicrosoft.azurewebsites.net/AAA
