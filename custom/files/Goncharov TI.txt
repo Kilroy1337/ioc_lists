@@ -5152,15 +5152,15 @@ f2ab26557364d548a40ab3c43db78e03750e8eb391258080dda31b5c3f71c1d9
 f4c46cf9ffd25764a63bcc6d158bfad5495802f830266111a37d39f107eee6d4
 fae4e3388e95d2e710257ae86ff482258f0f51458f42d116349ebc6a9266b29f
 # Sources
-https://1275.ru/ioc/1515/hiatusrat-malware-iocs/
-https://1275.ru/ioc/1514/blackfly-apt-iocs/
-https://1275.ru/ioc/1513/alc-ransomware-iocs/
-https://1275.ru/ioc/1512/sirattacker-ransomware-iocs/
-https://1275.ru/ioc/1510/fixs-atm-malware-iocs/
-https://1275.ru/security/1506/aveo-malware/
-https://www.socinvestigation.com/vidar-infostealer-malware-returns-with-new-ttps-detection-response/
-https://www.malwarebytes.com/blog/threat-intelligence/2023/03/deepstreamer-illegal-movie-streaming-platforms-hide-lucrative-ad-fraud-operation
-https://ti.defender.microsoft.com/articles/a272d5ab/public-indicators
-https://ti.defender.microsoft.com/articles/f8e88c87/public-indicators
-https://ti.defender.microsoft.com/articles/91ce1505/public-indicators
-https://ti.defender.microsoft.com/articles/3441ad85/public-indicators
+#https://1275.ru/ioc/1515/hiatusrat-malware-iocs/
+#https://1275.ru/ioc/1514/blackfly-apt-iocs/
+#https://1275.ru/ioc/1513/alc-ransomware-iocs/
+#https://1275.ru/ioc/1512/sirattacker-ransomware-iocs/
+#https://1275.ru/ioc/1510/fixs-atm-malware-iocs/
+#https://1275.ru/security/1506/aveo-malware/
+#https://www.socinvestigation.com/vidar-infostealer-malware-returns-with-new-ttps-detection-response/
+#https://www.malwarebytes.com/blog/threat-intelligence/2023/03/deepstreamer-illegal-movie-streaming-platforms-hide-lucrative-ad-fraud-operation
+#https://ti.defender.microsoft.com/articles/a272d5ab/public-indicators
+#https://ti.defender.microsoft.com/articles/f8e88c87/public-indicators
+#https://ti.defender.microsoft.com/articles/91ce1505/public-indicators
+#https://ti.defender.microsoft.com/articles/3441ad85/public-indicators
