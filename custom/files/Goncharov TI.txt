@@ -5352,9 +5352,9 @@ ea8cde21792543d7e55dd9a2a894c3cd4fc4fabaeab20ba689b84416c20a6e37
 f11adbdad7200b90237dd9bbd5dbbf0b5ad30dd5a931fbef22cb0790e1851d82
 f4ac4f735b9ff260a275734d86610dccb8558d1a54c6d6a78a94c33b6aaf6e39
 # Sources
-https://www.zscaler.com/blogs/security-research/nevada-ransomware-yet-another-nokayawa-variant
-https://isc.sans.edu/diary/AsynRAT%20Trojan%20-%20Bill%20Payment%20%28Pago%20de%20la%20factura%29/29626
-https://1275.ru/security/1535/b1txor20-backoor/
-https://1275.ru/ioc/1536/icefire-ransomware-iocs/
-https://1275.ru/ioc/1537/unc2970-apt-iocs/
-https://ti.defender.microsoft.com/articles/44b20d18/public-indicators
+#https://www.zscaler.com/blogs/security-research/nevada-ransomware-yet-another-nokayawa-variant
+#https://isc.sans.edu/diary/AsynRAT%20Trojan%20-%20Bill%20Payment%20%28Pago%20de%20la%20factura%29/29626
+#https://1275.ru/security/1535/b1txor20-backoor/
+#https://1275.ru/ioc/1536/icefire-ransomware-iocs/
+#https://1275.ru/ioc/1537/unc2970-apt-iocs/
+#https://ti.defender.microsoft.com/articles/44b20d18/public-indicators
