@@ -43,3 +43,7 @@ https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishi
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://rescure.me/rescure_blacklist.txt
 http://vxvault.net/URL_List.php
+https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv
+https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/year.csv
+https://malsilo.gitlab.io/feeds/dumps/domain_list.txt
+http://api.cybercure.ai/feed/get_ips
