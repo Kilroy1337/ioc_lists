@@ -6306,8 +6306,8 @@ e1ad66cc0244fc075e0aabe0fd19502d4c9617829b90aa210e74be1d915275d2
 e623984143e0dc6e35c79869ab1521c6714e588e8e648606496f8372ca0d8416
 ef20c929f5204b223b6e53dc406ea0bcd76d9e98c9ae4942037902883d4bb22a
 # Sources
-https://www.mandiant.com/resources/blog/alphv-ransomware-backup
-https://1275.ru/ioc/1729/cryptoclippy-clipper-iocs/
-https://1275.ru/ioc/1728/typhon-reborn-stealer-iocs-part-2/
-https://1275.ru/ioc/1720/aridviper-apt-c-23-apt-iocs/
-https://1275.ru/ioc/1719/rilide-malware-iocs/
+#https://www.mandiant.com/resources/blog/alphv-ransomware-backup
+#https://1275.ru/ioc/1729/cryptoclippy-clipper-iocs/
+#https://1275.ru/ioc/1728/typhon-reborn-stealer-iocs-part-2/
+#https://1275.ru/ioc/1720/aridviper-apt-c-23-apt-iocs/
+#https://1275.ru/ioc/1719/rilide-malware-iocs/
