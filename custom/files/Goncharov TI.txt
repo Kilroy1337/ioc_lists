@@ -6550,14 +6550,14 @@ e957326b2167fa7ccd508cbf531779a28bfce75eb2635ab81826a522979aeb98
 ec687a447ca036b10c28c1f9e1e9cef9f2078fdbc2ffdb4d8dd32e834b310c0d
 efeb7d9d0fabe464a32c4e33fe756d6ef7a9b369c0f1462b3dd573b6b667488e
 # Sources
-https://www.rewterz.com/rewterz-news/rewterz-threat-alert-quasar-rat-aka-cinarat-active-iocs-2/
-https://www.rewterz.com/rewterz-news/rewterz-threat-alert-apt-group-gamaredon-active-iocs-35/
-https://blog.talosintelligence.com/threat-source-newsletter-april-13-2023/
-https://www.zscaler.com/blogs/security-research/technical-analysis-trigona-ransomware
-https://1275.ru/ioc/1773/goldoson-adware-iocs/
-https://1275.ru/ioc/1772/trigona-ransomware-iocs-2/
-https://1275.ru/ioc/1771/tick-apt-iocs-part-2/
-https://1275.ru/ioc/1769/transparent-tribe-apt36-apt-iocs/
-https://1275.ru/ioc/1768/chameleon-malware-iocs/
-https://1275.ru/ioc/1766/kadavro-vector-ransomware-iocs/
-https://1275.ru/ioc/1761/cozy-bear-apt29-apt-iocs-part-3/
+#https://www.rewterz.com/rewterz-news/rewterz-threat-alert-quasar-rat-aka-cinarat-active-iocs-2/
+#https://www.rewterz.com/rewterz-news/rewterz-threat-alert-apt-group-gamaredon-active-iocs-35/
+#https://blog.talosintelligence.com/threat-source-newsletter-april-13-2023/
+#https://www.zscaler.com/blogs/security-research/technical-analysis-trigona-ransomware
+#https://1275.ru/ioc/1773/goldoson-adware-iocs/
+#https://1275.ru/ioc/1772/trigona-ransomware-iocs-2/
+#https://1275.ru/ioc/1771/tick-apt-iocs-part-2/
+#https://1275.ru/ioc/1769/transparent-tribe-apt36-apt-iocs/
+#https://1275.ru/ioc/1768/chameleon-malware-iocs/
+#https://1275.ru/ioc/1766/kadavro-vector-ransomware-iocs/
+#https://1275.ru/ioc/1761/cozy-bear-apt29-apt-iocs-part-3/
